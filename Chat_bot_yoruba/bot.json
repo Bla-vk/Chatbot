@@ -1,0 +1,256 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": [
+      "Pẹlẹ o",
+      "e kaaro",
+      "e ka aale",
+      "ojo dada"
+    ],
+    "bot_response": "Bawo ni o se wa!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": [
+      "Emi yoo ri e",
+      "O dabọ",
+      "kabọ"
+    ],
+    "bot_response": "Ma a ri e laipe!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": [
+      "o dara",
+      "lati",
+      "pade",
+      "ìwọ"
+    ],
+    "bot_response": "Idunnu naa ni gbogbo temi!",
+    "required_words": [
+      "dara",
+      "pade",
+      "ìwọ"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "ni",
+      "baba"
+    ],
+    "bot_response": "Baba jẹ obi akọ ",
+    "required_words": [
+      "tani",
+      "baba"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "ni",
+      "iya"
+    ],
+    "bot_response": "Iya jẹ obi abo",
+    "required_words": [
+      "tani",
+      "iya"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "o jẹ",
+      "obi",
+      "abo"
+    ],
+    "bot_response": "Obi abo ni obinrin ti o bimọ",
+    "required_words": [
+      "abo",
+      "obi"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "o jẹ",
+      "obi",
+      "akọ"
+    ],
+    "bot_response": "obi akọ ni akọ ti o bimọ",
+    "required_words": [
+      "akọ",
+      "obi"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "ni",
+      "arakunrin"
+    ],
+    "bot_response": "Ọkunrin ti o ni awọn obi kanna tabi obi kan ni wọpọ pẹlu miiran",
+    "required_words": [
+      "tani",
+      "arakunrin"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "ni",
+      "arabirin"
+    ],
+    "bot_response": "Obirin ti o ni awọn obi kanna tabi obi kan ni wọpọ pẹlu miiran",
+    "required_words": [
+      "tani",
+      "arabirin"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "ni",
+      "ọmọkunrin"
+    ],
+    "bot_response": "ọmọkunrin jẹ akọ ọmọ",
+    "required_words": [
+      "tani",
+      "ọmọkunrin"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "ni",
+      "ọmọbinrin"
+    ],
+    "bot_response": "ọmọbinrin jẹ abo ọmọ",
+    "required_words": [
+      "tani",
+      "ọmọbinrin"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "omo"
+    ],
+    "bot_response": "o jẹ omode",
+    "required_words": [
+      "tani",
+      "omo"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "eniyan"
+    ],
+    "bot_response": "Eniyan, boya agbalagba tabi ọmọde",
+    "required_words": [
+      "tani",
+      "eniyan"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "iyawo"
+    ],
+    "bot_response": "Obinrin kan ninu ibatan igbeyawo",
+    "required_words": [
+      "tani",
+      "iyawo"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "ọkọ"
+    ],
+    "bot_response": "Ọkunrin kan ninu ibatan igbeyawo",
+    "required_words": [
+      "tani",
+      "ọkọ"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "ni",
+      "obi"
+    ],
+    "bot_response": "Ènìyàn tí ó bímọ",
+    "required_words": [
+      "tani",
+      "obi"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "tani",
+      "a npe",
+      "ni",
+      "ana"
+    ],
+    "bot_response": "Eniyan ti o jẹ ibatan nitori igbeyawo",
+    "required_words": [
+      "tani",
+      "ana"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "kini",
+      "idile"
+    ],
+    "bot_response": "Ẹgbẹ ti eniyan meji tabi diẹ sii ti o ni ibatan nipasẹ ibimọ, igbeyawo tabi isọdọmọ",
+    "required_words": [
+      "kini",
+      "idile"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "Bawo",
+      "ni",
+      "ìwọ"
+    ],
+    "bot_response": "Mo wa nla! O ṣeun fun béèrè.",
+    "required_words": [
+      "Bawo",
+      "ni",
+      "ìwọ"
+    ]
+  }
+]
